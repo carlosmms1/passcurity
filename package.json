@@ -1,0 +1,12 @@
+{
+  "name": "passcurity",
+  "version": "1.0.0",
+  "description": "A password strategy to ensure security, encrypt and verify integrity.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Silva",
+  "license": "MIT"
+}
