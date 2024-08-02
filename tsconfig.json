@@ -8,6 +8,7 @@
       "@/*": ["./src/*"]
     },
     "outDir": "./dist",
+    "types": ["vitest/globals"],
     "removeComments": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
